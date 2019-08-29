@@ -1,0 +1,2 @@
+vault:
+    read-path: 'secret/data/hashiconf2019/prod'
