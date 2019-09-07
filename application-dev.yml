@@ -1,2 +1,2 @@
 vault:
-    read-path: 'secret/data/hashiconf2019/dev'
+    read-path: 'secret/data/VaultMicroservice/dev'
